@@ -8,6 +8,8 @@ Anglia Ruskin University, Cambridge (2025/26).
 
 ---
 
+⚠️ **The RAT simulator must only be executed inside an isolated virtual machine.
+**
 ## 📌 Overview
 
 When a security incident occurs, the first minutes are critical. This toolkit 
